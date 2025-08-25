@@ -1,0 +1,87 @@
+{
+  "header": {
+    "sessions": "Сеансы",
+    "movies": "Фильмы",
+    "search": "Поиск",
+    "favorites": "Избранное",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти"
+  },
+  "auth": {
+    "login": {
+      "title": "Вход в аккаунт",
+      "description": "Введите данные для входа в ваш аккаунт",
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "button": "Войти",
+      "noAccount": "Нет аккаунта?",
+      "register": "Зарегистрироваться"
+    },
+    "register": {
+      "title": "Создание аккаунта",
+      "description": "Заполните данные для создания нового аккаунта",
+      "name": "Имя",
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердите пароль",
+      "button": "Зарегистрироваться",
+      "haveAccount": "Уже есть аккаунт?",
+      "login": "Войти",
+      "passwordError": "Пароли не совпадают"
+    }
+  },
+  "movie": {
+    "filterByGenre": "Фильтр по жанру",
+    "selectGenre": "Выберите жанр",
+    "filterByPeriod": "Фильтр по периоду",
+    "selectPeriod": "Выберите период",
+    "endOfList": "Конец списка фильмов",
+    "loading": "Загрузка фильмов..."
+  },
+  "search": {
+    "placeholder": "Поиск фильмов...",
+    "button": "Поиск",
+    "noResults": "По вашему запросу ничего не найдено",
+    "endOfResults": "Конец результатов поиска"
+  },
+  "favorites": {
+    "title": "Ваше избранное",
+    "empty": "Вы еще не добавили фильмы в избранное",
+    "remove": "Удалить"
+  },
+  "movieDetail": {
+    "releaseDate": "Дата выхода",
+    "rating": "Рейтинг",
+    "duration": "Продолжительность",
+    "budget": "Бюджет",
+    "overview": "Описание",
+    "cast": "В ролях",
+    "similar": "Похожие фильмы",
+    "watchTrailer": "Смотреть трейлер",
+    "addToFavorites": "Добавить в избранное",
+    "removeFromFavorites": "Удалить из избранного"
+  },
+  "footer": {
+    "about": "О нас",
+    "terms": "Условия использования",
+    "offer": "Публичная оферта",
+    "ads": "Реклама",
+    "faq": "F.A.Q",
+    "contacts": "Контакты",
+    "categories": "Категории",
+    "action": "Боевики",
+    "comedy": "Комедии",
+    "drama": "Драмы",
+    "horror": "Ужасы",
+    "thriller": "Триллеры",
+    "fantasy": "Фэнтези",
+    "copyright": "© 2024 MovieApp. Все права защищены."
+  },
+  "common": {
+    "min": "мин",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "retry": "Повторить"
+  }
+}

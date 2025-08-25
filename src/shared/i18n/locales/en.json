@@ -1,0 +1,87 @@
+{
+  "header": {
+    "sessions": "Sessions",
+    "movies": "Movies",
+    "search": "Search",
+    "favorites": "Favorites",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": {
+      "title": "Login to your account",
+      "description": "Enter your credentials to access your account",
+      "email": "Email",
+      "password": "Password",
+      "button": "Login",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Create an account",
+      "description": "Fill in your details to create a new account",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "button": "Register",
+      "haveAccount": "Already have an account?",
+      "login": "Login",
+      "passwordError": "Passwords do not match"
+    }
+  },
+  "movie": {
+    "filterByGenre": "Filter by genre",
+    "selectGenre": "Select genre",
+    "filterByPeriod": "Filter by period",
+    "selectPeriod": "Select period",
+    "endOfList": "End of movie list",
+    "loading": "Loading more movies..."
+  },
+  "search": {
+    "placeholder": "Search for movies...",
+    "button": "Search",
+    "noResults": "No movies found for your search",
+    "endOfResults": "End of search results"
+  },
+  "favorites": {
+    "title": "Your Favorites",
+    "empty": "You haven't added any movies to favorites yet",
+    "remove": "Remove"
+  },
+  "movieDetail": {
+    "releaseDate": "Release Date",
+    "rating": "Rating",
+    "duration": "Duration",
+    "budget": "Budget",
+    "overview": "Overview",
+    "cast": "Cast",
+    "similar": "Similar Movies",
+    "watchTrailer": "Watch Trailer",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites"
+  },
+  "footer": {
+    "about": "About Us",
+    "terms": "Terms of Service",
+    "offer": "Public Offer",
+    "ads": "Advertising",
+    "faq": "F.A.Q",
+    "contacts": "Contacts",
+    "categories": "Categories",
+    "action": "Action",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "horror": "Horror",
+    "thriller": "Thriller",
+    "fantasy": "Fantasy",
+    "copyright": "© 2024 MovieApp. All rights reserved."
+  },
+  "common": {
+    "min": "min",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  }
+}
